@@ -170,3 +170,56 @@ a {
   font-weight: bolder;
   font-size: 22px;
 }
+
+/* Sign up section */
+.signup-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5.2em;
+  padding-bottom: 5.2em;
+  padding-left: 13.5em;
+  padding-right: 13.5em;
+}
+
+.signup-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3882f6;
+  padding-top: 2.3em;
+  padding-bottom: 2.3em;
+  padding-left: 7em;
+  padding-right: 7em;
+  gap: 2em;
+  width: 100%;
+  border-radius: 9px;
+}
+
+.text-1 {
+  color: white;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.text-2 {
+  color: #e5e7eb;
+}
+
+.button-2 {
+  background-color: #3882f6;
+  border: 2px solid white;
+  color: white;
+  padding: 9px 28px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+/* Footer */
+.footer {
+  padding: 1.5em;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
